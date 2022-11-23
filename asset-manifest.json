@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NinjaMail/static/css/main.ce338838.css",
+    "main.js": "/NinjaMail/static/js/main.144d4aac.js",
+    "static/js/787.cda612ba.chunk.js": "/NinjaMail/static/js/787.cda612ba.chunk.js",
+    "static/media/bg2.png": "/NinjaMail/static/media/bg2.889b8e90f10454975952.png",
+    "static/media/bg1.png": "/NinjaMail/static/media/bg1.8e4d1bbca37b35a7c834.png",
+    "static/media/img2.png": "/NinjaMail/static/media/img2.b0d59f222e2c0e9b3721.png",
+    "static/media/img3.png": "/NinjaMail/static/media/img3.dda5fb5e81b0e4ae60b5.png",
+    "static/media/img1.png": "/NinjaMail/static/media/img1.b16d786d1ea3c37fcdd2.png",
+    "static/media/temp2.png": "/NinjaMail/static/media/temp2.dc0b24aede1c6103c9f5.png",
+    "static/media/temp1.png": "/NinjaMail/static/media/temp1.0289e2149d487a359cb8.png",
+    "static/media/op.png": "/NinjaMail/static/media/op.3382d3fd340fe50c5ea5.png",
+    "static/media/slash_black.png": "/NinjaMail/static/media/slash_black.2d2596d267c6a6b6c994.png",
+    "static/media/Slanted Green BG.png": "/NinjaMail/static/media/Slanted Green BG.0759c37fc0273e414435.png",
+    "static/media/logo.svg": "/NinjaMail/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NinjaMail/index.html",
+    "main.ce338838.css.map": "/NinjaMail/static/css/main.ce338838.css.map",
+    "main.144d4aac.js.map": "/NinjaMail/static/js/main.144d4aac.js.map",
+    "787.cda612ba.chunk.js.map": "/NinjaMail/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce338838.css",
+    "static/js/main.144d4aac.js"
+  ]
+}
